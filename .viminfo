@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq
+|2,0,1669639046,,"wq"
 :q!
 |2,0,1669634247,,"q!"
-:wq
-|2,0,1669634242,,"wq"
 :wq!
 |2,0,1669628012,,"wq!"
 :x!
@@ -33,34 +33,48 @@
 # Registers:
 
 # File marks:
-'0  30  0  ~/java-war-proj/maven-web-application/target/maven-web-application.war
-|4,48,30,0,1669634247,"~/java-war-proj/maven-web-application/target/maven-web-application.war"
-'1  4  0  ~/java-war-proj/maven-web-application/target/maven-web-application.war
-|4,49,4,0,1669633630,"~/java-war-proj/maven-web-application/target/maven-web-application.war"
-'2  1  0  ~/java-war-proj/maven-web-application/target/maven-web-application.war
-|4,50,1,0,1669633630,"~/java-war-proj/maven-web-application/target/maven-web-application.war"
-'3  1  0  ~/mavenwar
-|4,51,1,0,1669633514,"~/mavenwar"
-'4  55  8  /etc/maven/settings.xml
-|4,52,55,8,1669628020,"/etc/maven/settings.xml"
-'5  59  18  /etc/maven/settings.xml
-|4,53,59,18,1669627585,"/etc/maven/settings.xml"
-'6  58  18  /etc/maven/settings.xml
-|4,54,58,18,1669627585,"/etc/maven/settings.xml"
-'7  262  10  /etc/maven/settings.xml
-|4,55,262,10,1669626927,"/etc/maven/settings.xml"
-'8  258  10  /etc/maven/settings.xml
-|4,56,258,10,1669626927,"/etc/maven/settings.xml"
-'9  261  10  /etc/maven/settings.xml
-|4,57,261,10,1669626927,"/etc/maven/settings.xml"
+'0  125  0  ~/maven-web-application/pom.xml
+|4,48,125,0,1669639046,"~/maven-web-application/pom.xml"
+'1  30  0  ~/java-war-proj/maven-web-application/target/maven-web-application.war
+|4,49,30,0,1669634247,"~/java-war-proj/maven-web-application/target/maven-web-application.war"
+'2  4  0  ~/java-war-proj/maven-web-application/target/maven-web-application.war
+|4,50,4,0,1669633630,"~/java-war-proj/maven-web-application/target/maven-web-application.war"
+'3  1  0  ~/java-war-proj/maven-web-application/target/maven-web-application.war
+|4,51,1,0,1669633630,"~/java-war-proj/maven-web-application/target/maven-web-application.war"
+'4  1  0  ~/mavenwar
+|4,52,1,0,1669633514,"~/mavenwar"
+'5  55  8  /etc/maven/settings.xml
+|4,53,55,8,1669628020,"/etc/maven/settings.xml"
+'6  59  18  /etc/maven/settings.xml
+|4,54,59,18,1669627585,"/etc/maven/settings.xml"
+'7  58  18  /etc/maven/settings.xml
+|4,55,58,18,1669627585,"/etc/maven/settings.xml"
+'8  262  10  /etc/maven/settings.xml
+|4,56,262,10,1669626927,"/etc/maven/settings.xml"
+'9  258  10  /etc/maven/settings.xml
+|4,57,258,10,1669626927,"/etc/maven/settings.xml"
 
 # Jumplist (newest first):
+-'  125  0  ~/maven-web-application/pom.xml
+|4,39,125,0,1669639046,"~/maven-web-application/pom.xml"
+-'  1  0  ~/maven-web-application/pom.xml
+|4,39,1,0,1669638925,"~/maven-web-application/pom.xml"
+-'  30  0  ~/java-war-proj/maven-web-application/target/maven-web-application.war
+|4,39,30,0,1669634247,"~/java-war-proj/maven-web-application/target/maven-web-application.war"
 -'  30  0  ~/java-war-proj/maven-web-application/target/maven-web-application.war
 |4,39,30,0,1669634247,"~/java-war-proj/maven-web-application/target/maven-web-application.war"
 -'  4  0  ~/java-war-proj/maven-web-application/target/maven-web-application.war
 |4,39,4,0,1669633630,"~/java-war-proj/maven-web-application/target/maven-web-application.war"
 -'  1  0  ~/java-war-proj/maven-web-application/target/maven-web-application.war
 |4,39,1,0,1669633630,"~/java-war-proj/maven-web-application/target/maven-web-application.war"
+-'  4  0  ~/java-war-proj/maven-web-application/target/maven-web-application.war
+|4,39,4,0,1669633630,"~/java-war-proj/maven-web-application/target/maven-web-application.war"
+-'  1  0  ~/java-war-proj/maven-web-application/target/maven-web-application.war
+|4,39,1,0,1669633630,"~/java-war-proj/maven-web-application/target/maven-web-application.war"
+-'  33  0  ~/java-war-proj/maven-web-application/target/maven-web-application.war
+|4,39,33,0,1669633608,"~/java-war-proj/maven-web-application/target/maven-web-application.war"
+-'  30  0  ~/java-war-proj/maven-web-application/target/maven-web-application.war
+|4,39,30,0,1669633608,"~/java-war-proj/maven-web-application/target/maven-web-application.war"
 -'  33  0  ~/java-war-proj/maven-web-application/target/maven-web-application.war
 |4,39,33,0,1669633608,"~/java-war-proj/maven-web-application/target/maven-web-application.war"
 -'  30  0  ~/java-war-proj/maven-web-application/target/maven-web-application.war
@@ -73,6 +87,30 @@
 |4,39,1,0,1669633514,"~/mavenwar"
 -'  1  0  ~/mavenwar
 |4,39,1,0,1669633514,"~/mavenwar"
+-'  1  0  ~/mavenwar
+|4,39,1,0,1669633514,"~/mavenwar"
+-'  1  0  ~/mavenwar
+|4,39,1,0,1669633514,"~/mavenwar"
+-'  1  0  ~/mavenwar
+|4,39,1,0,1669633514,"~/mavenwar"
+-'  1  0  ~/mavenwar
+|4,39,1,0,1669633514,"~/mavenwar"
+-'  55  8  /etc/maven/settings.xml
+|4,39,55,8,1669628020,"/etc/maven/settings.xml"
+-'  55  8  /etc/maven/settings.xml
+|4,39,55,8,1669628020,"/etc/maven/settings.xml"
+-'  55  8  /etc/maven/settings.xml
+|4,39,55,8,1669628020,"/etc/maven/settings.xml"
+-'  55  8  /etc/maven/settings.xml
+|4,39,55,8,1669628020,"/etc/maven/settings.xml"
+-'  55  8  /etc/maven/settings.xml
+|4,39,55,8,1669628020,"/etc/maven/settings.xml"
+-'  55  8  /etc/maven/settings.xml
+|4,39,55,8,1669628020,"/etc/maven/settings.xml"
+-'  55  8  /etc/maven/settings.xml
+|4,39,55,8,1669628020,"/etc/maven/settings.xml"
+-'  55  8  /etc/maven/settings.xml
+|4,39,55,8,1669628020,"/etc/maven/settings.xml"
 -'  55  8  /etc/maven/settings.xml
 |4,39,55,8,1669628020,"/etc/maven/settings.xml"
 -'  55  8  /etc/maven/settings.xml
@@ -105,6 +143,38 @@
 |4,39,59,18,1669627920,"/etc/maven/settings.xml"
 -'  59  18  /etc/maven/settings.xml
 |4,39,59,18,1669627920,"/etc/maven/settings.xml"
+-'  59  18  /etc/maven/settings.xml
+|4,39,59,18,1669627920,"/etc/maven/settings.xml"
+-'  59  18  /etc/maven/settings.xml
+|4,39,59,18,1669627920,"/etc/maven/settings.xml"
+-'  59  18  /etc/maven/settings.xml
+|4,39,59,18,1669627920,"/etc/maven/settings.xml"
+-'  59  18  /etc/maven/settings.xml
+|4,39,59,18,1669627920,"/etc/maven/settings.xml"
+-'  59  18  /etc/maven/settings.xml
+|4,39,59,18,1669627920,"/etc/maven/settings.xml"
+-'  59  18  /etc/maven/settings.xml
+|4,39,59,18,1669627920,"/etc/maven/settings.xml"
+-'  59  18  /etc/maven/settings.xml
+|4,39,59,18,1669627920,"/etc/maven/settings.xml"
+-'  59  18  /etc/maven/settings.xml
+|4,39,59,18,1669627920,"/etc/maven/settings.xml"
+-'  58  18  /etc/maven/settings.xml
+|4,39,58,18,1669627585,"/etc/maven/settings.xml"
+-'  58  18  /etc/maven/settings.xml
+|4,39,58,18,1669627585,"/etc/maven/settings.xml"
+-'  58  18  /etc/maven/settings.xml
+|4,39,58,18,1669627585,"/etc/maven/settings.xml"
+-'  58  18  /etc/maven/settings.xml
+|4,39,58,18,1669627585,"/etc/maven/settings.xml"
+-'  58  18  /etc/maven/settings.xml
+|4,39,58,18,1669627585,"/etc/maven/settings.xml"
+-'  58  18  /etc/maven/settings.xml
+|4,39,58,18,1669627585,"/etc/maven/settings.xml"
+-'  58  18  /etc/maven/settings.xml
+|4,39,58,18,1669627585,"/etc/maven/settings.xml"
+-'  58  18  /etc/maven/settings.xml
+|4,39,58,18,1669627585,"/etc/maven/settings.xml"
 -'  58  18  /etc/maven/settings.xml
 |4,39,58,18,1669627585,"/etc/maven/settings.xml"
 -'  58  18  /etc/maven/settings.xml
@@ -153,110 +223,52 @@
 |4,39,262,10,1669627051,"/etc/maven/settings.xml"
 -'  261  10  /etc/maven/settings.xml
 |4,39,261,10,1669627051,"/etc/maven/settings.xml"
--'  258  10  /etc/maven/settings.xml
-|4,39,258,10,1669626927,"/etc/maven/settings.xml"
--'  257  10  /etc/maven/settings.xml
-|4,39,257,10,1669626927,"/etc/maven/settings.xml"
--'  258  10  /etc/maven/settings.xml
-|4,39,258,10,1669626927,"/etc/maven/settings.xml"
--'  257  10  /etc/maven/settings.xml
-|4,39,257,10,1669626927,"/etc/maven/settings.xml"
--'  258  10  /etc/maven/settings.xml
-|4,39,258,10,1669626927,"/etc/maven/settings.xml"
--'  257  10  /etc/maven/settings.xml
-|4,39,257,10,1669626927,"/etc/maven/settings.xml"
--'  258  10  /etc/maven/settings.xml
-|4,39,258,10,1669626927,"/etc/maven/settings.xml"
--'  257  10  /etc/maven/settings.xml
-|4,39,257,10,1669626927,"/etc/maven/settings.xml"
--'  258  10  /etc/maven/settings.xml
-|4,39,258,10,1669626927,"/etc/maven/settings.xml"
--'  257  10  /etc/maven/settings.xml
-|4,39,257,10,1669626927,"/etc/maven/settings.xml"
--'  258  10  /etc/maven/settings.xml
-|4,39,258,10,1669626927,"/etc/maven/settings.xml"
--'  257  10  /etc/maven/settings.xml
-|4,39,257,10,1669626927,"/etc/maven/settings.xml"
--'  258  10  /etc/maven/settings.xml
-|4,39,258,10,1669626927,"/etc/maven/settings.xml"
--'  257  10  /etc/maven/settings.xml
-|4,39,257,10,1669626927,"/etc/maven/settings.xml"
--'  258  10  /etc/maven/settings.xml
-|4,39,258,10,1669626927,"/etc/maven/settings.xml"
--'  257  10  /etc/maven/settings.xml
-|4,39,257,10,1669626927,"/etc/maven/settings.xml"
--'  83  0  /etc/maven/settings.xml
-|4,39,83,0,1669626798,"/etc/maven/settings.xml"
--'  79  0  /etc/maven/settings.xml
-|4,39,79,0,1669626798,"/etc/maven/settings.xml"
--'  82  0  /etc/maven/settings.xml
-|4,39,82,0,1669626798,"/etc/maven/settings.xml"
--'  78  0  /etc/maven/settings.xml
-|4,39,78,0,1669626798,"/etc/maven/settings.xml"
--'  83  0  /etc/maven/settings.xml
-|4,39,83,0,1669626798,"/etc/maven/settings.xml"
--'  79  0  /etc/maven/settings.xml
-|4,39,79,0,1669626798,"/etc/maven/settings.xml"
--'  82  0  /etc/maven/settings.xml
-|4,39,82,0,1669626798,"/etc/maven/settings.xml"
--'  78  0  /etc/maven/settings.xml
-|4,39,78,0,1669626798,"/etc/maven/settings.xml"
--'  83  0  /etc/maven/settings.xml
-|4,39,83,0,1669626798,"/etc/maven/settings.xml"
--'  79  0  /etc/maven/settings.xml
-|4,39,79,0,1669626798,"/etc/maven/settings.xml"
--'  82  0  /etc/maven/settings.xml
-|4,39,82,0,1669626798,"/etc/maven/settings.xml"
--'  78  0  /etc/maven/settings.xml
-|4,39,78,0,1669626798,"/etc/maven/settings.xml"
--'  83  0  /etc/maven/settings.xml
-|4,39,83,0,1669626798,"/etc/maven/settings.xml"
--'  79  0  /etc/maven/settings.xml
-|4,39,79,0,1669626798,"/etc/maven/settings.xml"
--'  82  0  /etc/maven/settings.xml
-|4,39,82,0,1669626798,"/etc/maven/settings.xml"
--'  78  0  /etc/maven/settings.xml
-|4,39,78,0,1669626798,"/etc/maven/settings.xml"
--'  83  0  /etc/maven/settings.xml
-|4,39,83,0,1669626798,"/etc/maven/settings.xml"
--'  79  0  /etc/maven/settings.xml
-|4,39,79,0,1669626798,"/etc/maven/settings.xml"
--'  82  0  /etc/maven/settings.xml
-|4,39,82,0,1669626798,"/etc/maven/settings.xml"
--'  78  0  /etc/maven/settings.xml
-|4,39,78,0,1669626798,"/etc/maven/settings.xml"
--'  83  0  /etc/maven/settings.xml
-|4,39,83,0,1669626798,"/etc/maven/settings.xml"
--'  79  0  /etc/maven/settings.xml
-|4,39,79,0,1669626798,"/etc/maven/settings.xml"
--'  82  0  /etc/maven/settings.xml
-|4,39,82,0,1669626798,"/etc/maven/settings.xml"
--'  78  0  /etc/maven/settings.xml
-|4,39,78,0,1669626798,"/etc/maven/settings.xml"
--'  83  0  /etc/maven/settings.xml
-|4,39,83,0,1669626798,"/etc/maven/settings.xml"
--'  79  0  /etc/maven/settings.xml
-|4,39,79,0,1669626798,"/etc/maven/settings.xml"
--'  82  0  /etc/maven/settings.xml
-|4,39,82,0,1669626798,"/etc/maven/settings.xml"
--'  78  0  /etc/maven/settings.xml
-|4,39,78,0,1669626798,"/etc/maven/settings.xml"
--'  83  0  /etc/maven/settings.xml
-|4,39,83,0,1669626798,"/etc/maven/settings.xml"
--'  79  0  /etc/maven/settings.xml
-|4,39,79,0,1669626798,"/etc/maven/settings.xml"
--'  82  0  /etc/maven/settings.xml
-|4,39,82,0,1669626798,"/etc/maven/settings.xml"
--'  78  0  /etc/maven/settings.xml
-|4,39,78,0,1669626798,"/etc/maven/settings.xml"
--'  32  0  /etc/maven/logging/simplelogger.properties
-|4,39,32,0,1669626777,"/etc/maven/logging/simplelogger.properties"
--'  32  0  /etc/maven/logging/simplelogger.properties
-|4,39,32,0,1669626777,"/etc/maven/logging/simplelogger.properties"
--'  32  0  /etc/maven/logging/simplelogger.properties
-|4,39,32,0,1669626777,"/etc/maven/logging/simplelogger.properties"
+-'  262  10  /etc/maven/settings.xml
+|4,39,262,10,1669627051,"/etc/maven/settings.xml"
+-'  261  10  /etc/maven/settings.xml
+|4,39,261,10,1669627051,"/etc/maven/settings.xml"
+-'  262  10  /etc/maven/settings.xml
+|4,39,262,10,1669627051,"/etc/maven/settings.xml"
+-'  261  10  /etc/maven/settings.xml
+|4,39,261,10,1669627051,"/etc/maven/settings.xml"
+-'  262  10  /etc/maven/settings.xml
+|4,39,262,10,1669627051,"/etc/maven/settings.xml"
+-'  261  10  /etc/maven/settings.xml
+|4,39,261,10,1669627051,"/etc/maven/settings.xml"
+-'  262  10  /etc/maven/settings.xml
+|4,39,262,10,1669627051,"/etc/maven/settings.xml"
+-'  261  10  /etc/maven/settings.xml
+|4,39,261,10,1669627051,"/etc/maven/settings.xml"
+-'  262  10  /etc/maven/settings.xml
+|4,39,262,10,1669627051,"/etc/maven/settings.xml"
+-'  261  10  /etc/maven/settings.xml
+|4,39,261,10,1669627051,"/etc/maven/settings.xml"
+-'  262  10  /etc/maven/settings.xml
+|4,39,262,10,1669627051,"/etc/maven/settings.xml"
+-'  261  10  /etc/maven/settings.xml
+|4,39,261,10,1669627051,"/etc/maven/settings.xml"
+-'  262  10  /etc/maven/settings.xml
+|4,39,262,10,1669627051,"/etc/maven/settings.xml"
+-'  261  10  /etc/maven/settings.xml
+|4,39,261,10,1669627051,"/etc/maven/settings.xml"
+-'  262  10  /etc/maven/settings.xml
+|4,39,262,10,1669627051,"/etc/maven/settings.xml"
+-'  261  10  /etc/maven/settings.xml
+|4,39,261,10,1669627051,"/etc/maven/settings.xml"
 
 # History of marks within files (newest to oldest):
+
+> ~/maven-web-application/pom.xml
+	*	1669639044	0
+	"	125	0
+	^	125	0
+	.	125	0
+	+	130	2
+	+	128	4
+	+	127	4
+	+	128	47
+	+	124	15
+	+	125	0
 
 > ~/java-war-proj/maven-web-application/target/maven-web-application.war
 	*	1669634242	0
